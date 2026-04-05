@@ -10,6 +10,10 @@ Flowtrace is for anyone who has AI workflows running that are
 not up to your expectations and want to make it work for you
 rather than against you.
 
+## Architecture
+
+![Flowtrace Architecture](assets/Flowtrace.png)
+
 ## MVP Features
 
 1. Create workflows
